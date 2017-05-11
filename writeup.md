@@ -13,7 +13,7 @@ The goals / steps of this project are the following:
 * Warp the detected lane boundaries back onto the original image.
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
-Link to my [project code](https://github.com/cpierceworld/CarND-Advanced-Lane-Lines/blob/wip/Advanced_Lane_Lines.ipynb)
+Link to my [project code](https://github.com/cpierceworld/CarND-Advanced-Lane-Lines/blob/master/Advanced_Lane_Lines.ipynb)
 
 
 [//]: # (Image References)
@@ -41,7 +41,7 @@ Link to my [project code](https://github.com/cpierceworld/CarND-Advanced-Lane-Li
 
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one.
 
-A copy of this writeup can be found [here](https://github.com/cpierceworld/CarND-Advanced-Lane-Lines/blob/wip/writeup.md).  The code this writeup references can be found [here](https://github.com/cpierceworld/CarND-Advanced-Lane-Lines/blob/wip/Advanced_Lane_Lines.ipynb)
+A copy of this writeup can be found [here](https://github.com/cpierceworld/CarND-Advanced-Lane-Lines/blob/master/writeup.md).  The code this writeup references can be found [here](https://github.com/cpierceworld/CarND-Advanced-Lane-Lines/blob/master/Advanced_Lane_Lines.ipynb)
 
 ### Camera Calibration
 
